@@ -8,7 +8,6 @@
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
 
           <form
-method="get" action="https://DJbhai.site"
             v-else
             @submit.prevent="handleSubmit"
             name="signups"
@@ -87,7 +86,7 @@ export default class Home extends Vue {
     }
 
     try {
-      await fetch('https://djbhai.site/', {
+      await fetch('https://djbhai.site/account/check_login.php', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: this.encode({ 'form-name': 'signups', ...this.form }),
