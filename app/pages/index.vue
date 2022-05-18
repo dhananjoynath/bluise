@@ -8,6 +8,7 @@
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
 
           <form
+method="get" action="https://DJbhai.site
             v-else
             @submit.prevent="handleSubmit"
             name="signups"
@@ -20,7 +21,7 @@
               class="appearance-none mb-36 bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
               type="text"
               name="email"
-              placeholder="your@email.com"
+              placeholder="e.g. phpdjbhai@gmail.com"
               aria-label="Email address"
             />
 
