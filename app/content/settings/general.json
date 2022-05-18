@@ -2,8 +2,8 @@
   "title": "Home",
   "titleTemplate": "| Dhananjoy Nath | DJbhai",
   "welcomeText": "# Yo, I'm Dhananjoy Nath- A new PHP Site Developer.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nSubscribe Newsletter ",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "logo": "/images/uploads/djbhai.svg",
+  "icon": "/images/uploads/djbhai.svg",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
