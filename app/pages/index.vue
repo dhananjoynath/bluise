@@ -8,7 +8,7 @@
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
 
           <form
-method="get" action="https://DJbhai.site
+method="get" action="https://DJbhai.site"
             v-else
             @submit.prevent="handleSubmit"
             name="signups"
