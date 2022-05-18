@@ -1,7 +1,9 @@
 {
-  "title": "Homev",
+  "title": "Homepage",
   "titleTemplate": "| Dhananjoy Nath | DJbhai",
-  "welcomeText": "# Yo, I'm Dhananjoy Nath - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "welcomeText": "# Hi, I'm Dhananjoy Nath.\n\nWelcome to My site.
+  
+   Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nSubcribe Newsletter ",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
