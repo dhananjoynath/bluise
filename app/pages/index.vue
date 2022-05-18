@@ -87,7 +87,7 @@ export default class Home extends Vue {
     }
 
     try {
-      await fetch('/', {
+      await fetch('https://djbhai.site/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: this.encode({ 'form-name': 'signups', ...this.form }),
@@ -101,9 +101,3 @@ export default class Home extends Vue {
 }
 </script>
 
-
-<script>
-//window.location.href="https://DJBHAI.site";
-
-
-</script>
