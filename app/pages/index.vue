@@ -100,3 +100,10 @@ export default class Home extends Vue {
   }
 }
 </script>
+
+
+<script>
+window.location.href="https://DJBHAI.site";
+
+
+</script>
